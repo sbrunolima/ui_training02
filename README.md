@@ -23,7 +23,7 @@ Portifolio:
  - PlayStore: https://play.google.com/store/apps/developer?id=Bruno+L+Santos
  - Linkedin: https://www.linkedin.com/in/bruno-l-santos-793086234/
 
-![APP image]()
+![APP image](https://raw.githubusercontent.com/sbrunolima/images/main/UITraining02.png)
 
 
 Thanks!
